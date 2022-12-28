@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --color-grey-1: #212529;
+    --color-grey-2: #343A40;
+    --color-grey-3: #464F57;
+    --color-blue-1:blue;
+    --color-blue-2:rgba(11, 22, 124, 0.938);
+    --color-blue-3:rgb(18, 18, 199);
+    --color-white-1:white;
+
+    --font-1: 1.75rem;
+    --font-2: 1rem;
+    --font-3: 0.875rem;
+}

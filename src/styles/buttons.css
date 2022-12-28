@@ -1,0 +1,15 @@
+#button-search {
+    justify-items: center;
+    padding-left: 4px;
+    margin-left: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    position: absolute;
+    padding-top: 10px;
+    padding-right: 20px;
+    border-radius: 10px;
+}
+
+#button-search:hover {
+    border-radius: 14px;
+}

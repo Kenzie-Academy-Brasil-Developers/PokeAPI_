@@ -1,0 +1,27 @@
+header {
+    display: flex;
+    flex-direction: column;
+    padding-top: 33px;
+    gap: 32px;
+    align-items: center;
+}
+
+.div-search {
+    justify-items: center;
+    margin-right: 45px;
+}
+
+.input-search {
+    justify-content: space-between;
+    font-weight: bold;
+    text-align: center;
+    height: 40px;
+    width: 178px;
+    border: none;
+    text-decoration: none;
+    border-radius: 1vh;
+    background-color: var(--color-grey-1);
+    outline: none;
+}
+
+

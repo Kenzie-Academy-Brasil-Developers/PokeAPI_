@@ -1,0 +1,30 @@
+#button-search {
+    background-color:var(--color-blue-1)
+}
+
+#button-search:hover {
+    background-color:var(--color-blue-2);
+}
+
+.input-search {
+    color: var( --color-white-1);
+    border: 2px solid var(--color-blue-1);
+}
+
+.input-search:hover {
+    border: 2px solid var(--color-blue-3);
+}
+
+
+body {
+    background-color: var(--color-grey-1);
+    color:var(--color-white-1);
+    
+}
+
+h3 {
+    color:var(--color-white-1);
+    background-color: var(--color-grey-2);
+}
+ 
+
